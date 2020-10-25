@@ -1,5 +1,5 @@
 FROM debian:buster
-LABEL mainteiner = Igor Olhovskiy <IgorOlhovskiy@gmail.com>
+LABEL maintainer = Igor Olhovskiy <IgorOlhovskiy@gmail.com>
 
 # Install Required Dependencies
 RUN apt-get update \
